@@ -1,0 +1,7 @@
+.container p {
+background-color: aqua;
+text-align: center;
+text-decoration: wavy;
+text: shadow 5px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
